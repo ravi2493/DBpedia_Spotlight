@@ -8,7 +8,7 @@ Java setup
 Dbpedia Spotlight setup
 
 1. wget http://downloads.dbpedia-spotlight.org/spotlight/dbpedia-spotlight-1.0.0.jar/download 
-rename download file
+##### rename download file
 2. mv download dbpedia-spotlight-1.0.0.jar
 3. wget https://sourceforge.net/projects/dbpedia-spotlight/files/2016-10/en/model/en.tar.gz
 
